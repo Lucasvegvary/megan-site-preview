@@ -1,0 +1,12 @@
+{
+  "name": "Megan — Intuitive · Healer · Guide",
+  "short_name": "Megan",
+  "description": "Intuitive readings, energy healing, cord-cutting and spiritual guidance with Megan. Guided by Spirit. Rooted in Love.",
+  "start_url": "/megan-site-preview/",
+  "display": "standalone",
+  "background_color": "#f8f4ec",
+  "theme_color": "#4b3b8f",
+  "icons": [
+    { "src": "/megan-site-preview/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
